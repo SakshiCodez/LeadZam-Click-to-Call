@@ -1,0 +1,6 @@
+{
+  "name": "LeadZam",
+  "description": "LeadZam Click-to-Call CRM and Android dialer integration with Firebase Cloud Messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

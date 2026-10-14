@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LeadZam</string>
+    <string name="app_tagline">Click-to-Call CRM Integration</string>
+    <string name="fcm_status_connected">FCM Service Ready</string>
+    <string name="fcm_status_fetching">Fetching Device Token…</string>
+    <string name="fcm_status_error">FCM Token Unavailable</string>
+    <string name="copy_token">Copy Token</string>
+    <string name="token_copied">FCM Token copied to clipboard</string>
+    <string name="register_backend">Register Device</string>
+    <string name="registering">Registering…</string>
+    <string name="registered_success">Device registered with backend!</string>
+    <string name="registered_failed">Could not reach backend at %1$s</string>
+    <string name="backend_url_label">Backend URL: %1$s</string>
+    <string name="change_backend_url">Change Backend URL</string>
+    <string name="incoming_request_title">Active Call Request</string>
+    <string name="source_crm_badge">Source: LeadZam CRM</string>
+    <string name="no_requests_title">Ready for Call Requests</string>
+    <string name="no_requests_desc">When you click Call in the CRM Dashboard, the lead details will appear here and in system notifications.</string>
+    <string name="btn_call_now">Open Dialer</string>
+    <string name="btn_dismiss">Dismiss</string>
+    <string name="btn_simulate_test">Test Local Dial Request</string>
+    <string name="recent_requests_title">Recent Call Requests</string>
+    <string name="permission_banner_text">Notification permission is required to receive background call alerts.</string>
+    <string name="permission_grant_btn">Enable Notifications</string>
+    <string name="dialer_launched">Opening phone dialer…</string>
+    <string name="invalid_phone_number">Invalid phone number in request</string>
+    <string name="channel_name">LeadZam Call Requests</string>
+    <string name="channel_desc">Notifications for incoming CRM click-to-call requests</string>
+    <string name="notification_action_call">Call Lead</string>
+    <string name="notification_action_view">View Details</string>
+</resources>

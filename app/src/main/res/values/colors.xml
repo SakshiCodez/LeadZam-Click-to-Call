@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="leadzam_primary">#0F172A</color>
+    <color name="leadzam_primary_variant">#1E293B</color>
+    <color name="leadzam_accent">#2563EB</color>
+    <color name="leadzam_call_green">#16A34A</color>
+    <color name="leadzam_call_green_dark">#15803D</color>
+    <color name="leadzam_bg">#F8FAFC</color>
+    <color name="leadzam_card_bg">#FFFFFF</color>
+    <color name="leadzam_text_primary">#0F172A</color>
+    <color name="leadzam_text_secondary">#64748B</color>
+    <color name="leadzam_border">#E2E8F0</color>
+    <color name="leadzam_badge_bg">#EFF6FF</color>
+    <color name="leadzam_badge_text">#1D4ED8</color>
+    <color name="leadzam_error">#DC2626</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

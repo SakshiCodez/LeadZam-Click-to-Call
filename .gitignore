@@ -1,0 +1,32 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+debug.keystore
+
+# Backend Maven & Secrets
+backend/target/
+**/target/
+*firebase-service-account*.json
+*.log
+
+# Frontend Node & Build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.build-outputs/
+debug.keystore.base64
+.DS_Store
