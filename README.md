@@ -1,4 +1,4 @@
-# LeadZam Click-to-Call • Android Developer Intern Practical Assignment
+# LeadZam Click-to-Call
 
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Spring%20Boot%20%7C%20React-blue.svg)](https://github.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-purple.svg)](https://kotlinlang.org)
